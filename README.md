@@ -8,8 +8,10 @@ Technologies used:
 * MySQL
 
 Class diagram:
+
 ![](UML_Class_Diagram.png)
 
 Sequence diagram:
+
 ![](UML_Sequence_Diagram.png)
 
