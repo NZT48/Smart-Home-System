@@ -1,0 +1,7 @@
+service\resources\Planner.class
+service\resources\MusicPlayer.class
+service\resources\Alarm.class
+service\JAXRSConfiguration.class
+filters\BasicAuthFilter.class
+entities\User.class
+service\resources\JavaEE8Resource.class
